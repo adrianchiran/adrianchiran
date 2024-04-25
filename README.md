@@ -1,5 +1,4 @@
 ### Hi there 👋
-![cover-image](https://github.com/adrianchiran/adrianchiran/assets/74239010/e1d787a4-931c-4a66-8cad-bb68e2c707f6)
 
 
 <!--
