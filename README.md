@@ -1,7 +1,10 @@
 ### Hi there 👋
+![cover-image](https://github.com/adrianchiran/adrianchiran/assets/74239010/e1d787a4-931c-4a66-8cad-bb68e2c707f6)
+
 
 <!--
 **adrianchiran/adrianchiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cover-image](https://github.com/adrianchiran/adrianchiran/assets/74239010/e1d787a4-931c-4a66-8cad-bb68e2c707f6)
 
 Here are some ideas to get you started:
 
