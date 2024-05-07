@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![1712047710361](https://github.com/adrianchiran/adrianchiran/assets/74239010/a5fe1dbc-1b3d-4f82-b356-3411bbb36e95)
 
